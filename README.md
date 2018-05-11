@@ -1,5 +1,5 @@
 # Udacity-Tableau-Story-Prosper
-Udacity DAND December 2017 - May 2018. Project 8: Crate a Tableau Story. 
+Udacity DAND December 2017 - May 2018. Last project: Create a Tableau Story. 
 
 # Project Overview
 For this project, you will create a data visualization using Tableau that tells a story or highlights trends or patterns in a data set. Your work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
