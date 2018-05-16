@@ -1,6 +1,8 @@
 # Udacity-Tableau-Story-Prosper
 Udacity DAND December 2017 - May 2018. Last project: Create a Tableau Story. 
 
+https://public.tableau.com/profile/ruby7717#!/vizhome/Final_vTableauStoryfromProsper/Story1?publish=yes
+
 # Project Overview
 For this project, I will create a data visualization using Tableau that tells a story or highlights trends or patterns in a data set. My work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
 
