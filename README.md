@@ -1,5 +1,5 @@
-# Udacity-Tableau-Story-Prosper
-Udacity DAND December 2017 - May 2018. Last project: Create a Tableau Story. 
+# Data Story Telling using Tableau: Loan Data from Prosper
+Udacity Data Analyst Nanodegree December 2017 - May 2018. Project8 : Create a Tableau Story. 
 
 https://public.tableau.com/profile/ruby7717#!/vizhome/Final_vTableauStoryfromProsper/Story1?publish=yes
 
@@ -32,32 +32,21 @@ If I, as a data analyst, can create visualizations to explore data, articulate c
 
 # Project Details
 ## Introduction
-For the final project, I will create an explanatory data visualization from a data set that communicates a clear finding or that highlights relationships or patterns in a data set. My work should be a reflection of the theory and practice of data visualization, and my final deliverable will be a write up along with a Tableau Public workbook.
-
-Udacity will provide some options of data sets to explore; however, I may choose to explore an entirely different data set. I should be aware that finding my own data set and cleaning it using Python, R, or some other language can take considerable time and effort. 
-
-I have three options for this project. I should pick an option based on your prior experience with data munging and exploratory data analysis. The option I choose will not affect the evaluation of the project.
-
-- Option 1: Select one of the beginner data sets, which already has a summary of findings, from the Data Set Options document. Then, create a visualization that communicates the findings.
-- Option 2: Select one of the intermediate data sets from the Data Set Options document. You will investigate the data set to share a story or message about the data and then create a suitable visualization.
-- Option 3: Find a data set, investigate it, and share your findings in a visualization. Your final graphic should primarily be explanatory, but it may also contain exploratory components. You can find a list of recommended websites to find data sets in the Data Set Options document. You should be aware that finding your own data set, cleaning the data set, and analyzing it (using R, iPython Notebook, or another tool) can take considerable time and effort. This can lengthen the time you spend on your project by days, weeks, or even months. Choose the option only if you feel prepared for a challenge!
-
-Now, on to the details!
+For the final project, I will create an explanatory data visualization from a data set that communicates a clear finding or that highlights relationships or patterns in a data set. 
 
 ## Step One - Choose a Data Set
-First, I will choose a data set from the Data Set Options document or find a data set to explore and visualize. I should choose a data set based on my prior experiences in programming and working with data. The data set I choose will not increase or decrease my chances of passing this project.
+I chose Loan Data from Prosper. Prosper is a peer-to-peer lending platform that aims to connect people who need money with those who have the money to lend.
 
 ## Step Two - Get Organized
-Eventually I’ll want to submit my project and share it. To do so, I need to create a zip folder that includes the following:
+This repoository includes the following:
 
-- Write-up: PDF or Markdown file that includes links to my Tableau Public workbooks, published online, and a write-up with four sections. See HERE if you need help publishing your Tableau Public Workbook.
+- Write-up: PDF or Markdown file that includes links to my Tableau Public workbooks, published online, and a write-up with four sections. 
   - Summary: in no more than 4 sentences, briefly introduce the data visualization and add any context that can help readers understand it
   - Design: explain any design choices I made including changes to the visualization after collecting feedback
   - Feedback: include all feedback I received from others on my visualization from the first sketch to the final visualization
   - Resources: list any sources I consulted to create my visualization
 - Data Files
   - the final data set used to create the visualization (usually .csv, .tsv, or .json file)
-  - a codebook or other files related to the data set (description, readme, license)
 
 ## Step Three - Find a Data Story
 Explore my data set and craft a message or story around your data! Think about the overall message I want to convey and think about the comparison(s) or relationship(s) I want my readers to see. Remember that I will ultimately need to create a visualization that is explanatory, helping lead a reader to identify one or more key insights into the dataset. 
@@ -84,9 +73,5 @@ For each person that gives feedback, add the person’s feedback to the write-up
 
 I should save multiple versions of your data visualization after I make changes to it. Remember to save related files with similar numbers.
 
-When should I save your files? I should save your files whenever I have a working version of your data visualization. If I get feedback and make changes, then create a new file and save the file as another version.
-
 My goal is to build evidence that I have shared the visualization, received feedback, and responded to that feedback. I need to submit an initial version of your data visualization and the final version with the corresponding write-up.
 
-## Step Seven - Review
-Use the Project Rubric to review the project.
